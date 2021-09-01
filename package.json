@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@mediapipe/camera_utils": "^0.3.1620247984",
-    "@mediapipe/face_mesh": "^0.3.1620248508",
+    "@mediapipe/face_mesh": "^0.4.1629159166",
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
